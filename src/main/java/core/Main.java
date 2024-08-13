@@ -41,5 +41,7 @@ public class Main {
 
         //BoundedBuffer boundedBuffer = new BoundedBuffer();
 
+        MultiThreadedCrawler crawler = new MultiThreadedCrawler();
+
     }
 }
